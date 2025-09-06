@@ -1,0 +1,6 @@
+f['Attendance_Hours'], df['Final_Marks'], color = 'purple')
+# plt.title('Attendance Hours vs Final Marks')
+# plt.xlabel('Attendance Hours')
+# plt.ylabel('Final Marks')
+# plt.box(False)
+# plt.show()
